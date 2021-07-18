@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-1nfinity
-</title>
 <style>
 img {
     position: absolute;
@@ -15,6 +12,9 @@ img {
 }
 </style>
 <link rel="shortcut icon" href="img/favicon.ico">
+<title>
+1nfinity
+</title>
 </head>
 <body>
 <img src="img/Logo_200x200.png" style="width:10%">
